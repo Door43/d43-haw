@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[haw:home|Door43 (haw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-haw|d43-haw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-haw/archive/master.zip|d43-haw.zip]]
+
+**Recent Changes**
+{{changes>ns = haw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/haw|Ethnologue data]]
+
